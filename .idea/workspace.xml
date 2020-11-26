@@ -1,8 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="C_DataStructure" targetName="C_DataStructure" />
+    </generated>
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="166e2dfa-d32d-48f5-8f4a-e5919f603028" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/C_DataStructure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linklist.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vector.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kiJP5vnNUNhpsdzDWsKodqpgxz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="C_DataStructure" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_DataStructure" TARGET_NAME="C_DataStructure" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_DataStructure" RUN_TARGET_NAME="C_DataStructure">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="166e2dfa-d32d-48f5-8f4a-e5919f603028" name="Default Changelist" comment="" />
+      <created>1606177450379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606177450379</updated>
+      <workItem from="1606177451548" duration="9716000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="425" y="243" key="Github.ShareDialog" timestamp="1606177490289">
+      <screen x="0" y="25" width="1152" height="640" />
+    </state>
+    <state x="425" y="243" key="Github.ShareDialog/0.25.1152.640@0.25.1152.640" timestamp="1606177490289" />
+    <state x="365" y="43" key="Github.UntrackedFilesDialog" timestamp="1606177497180">
+      <screen x="0" y="25" width="1152" height="640" />
+    </state>
+    <state x="365" y="43" key="Github.UntrackedFilesDialog/0.25.1152.640@0.25.1152.640" timestamp="1606177497180" />
+    <state width="1110" height="86" key="GridCell.Tab.0.bottom" timestamp="1606268752588">
+      <screen x="0" y="25" width="1152" height="635" />
+    </state>
+    <state width="1110" height="86" key="GridCell.Tab.0.bottom/0.25.1152.635@0.25.1152.635" timestamp="1606268752588" />
+    <state width="1110" height="141" key="GridCell.Tab.0.bottom/0.25.1152.639@0.25.1152.639" timestamp="1606240930226" />
+    <state width="1110" height="20" key="GridCell.Tab.0.bottom/0.25.1152.641@0.25.1152.641" timestamp="1606181730427" />
+    <state width="1110" height="86" key="GridCell.Tab.0.center" timestamp="1606268752588">
+      <screen x="0" y="25" width="1152" height="635" />
+    </state>
+    <state width="1110" height="86" key="GridCell.Tab.0.center/0.25.1152.635@0.25.1152.635" timestamp="1606268752588" />
+    <state width="1110" height="141" key="GridCell.Tab.0.center/0.25.1152.639@0.25.1152.639" timestamp="1606240930224" />
+    <state width="1110" height="20" key="GridCell.Tab.0.center/0.25.1152.641@0.25.1152.641" timestamp="1606181730426" />
+    <state width="1110" height="86" key="GridCell.Tab.0.left" timestamp="1606268752587">
+      <screen x="0" y="25" width="1152" height="635" />
+    </state>
+    <state width="1110" height="86" key="GridCell.Tab.0.left/0.25.1152.635@0.25.1152.635" timestamp="1606268752587" />
+    <state width="1110" height="141" key="GridCell.Tab.0.left/0.25.1152.639@0.25.1152.639" timestamp="1606240930224" />
+    <state width="1110" height="20" key="GridCell.Tab.0.left/0.25.1152.641@0.25.1152.641" timestamp="1606181730426" />
+    <state width="1110" height="86" key="GridCell.Tab.0.right" timestamp="1606268752588">
+      <screen x="0" y="25" width="1152" height="635" />
+    </state>
+    <state width="1110" height="86" key="GridCell.Tab.0.right/0.25.1152.635@0.25.1152.635" timestamp="1606268752588" />
+    <state width="1110" height="141" key="GridCell.Tab.0.right/0.25.1152.639@0.25.1152.639" timestamp="1606240930225" />
+    <state width="1110" height="20" key="GridCell.Tab.0.right/0.25.1152.641@0.25.1152.641" timestamp="1606181730427" />
+    <state x="85" y="25" key="SettingsEditor" timestamp="1606238447855">
+      <screen x="0" y="25" width="1152" height="639" />
+    </state>
+    <state x="85" y="25" key="SettingsEditor/0.25.1152.639@0.25.1152.639" timestamp="1606238447855" />
   </component>
 </project>
