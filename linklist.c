@@ -46,7 +46,6 @@ int main()
         output(l);
         printf("\n");
     }
-
     clear(l);
     return 0;
 }
