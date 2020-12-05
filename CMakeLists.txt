@@ -3,4 +3,4 @@ project(C_DataStructure C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(C_DataStructure binary_search.c)
+add_executable(C_DataStructure priority_queue.c)
