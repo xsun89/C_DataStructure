@@ -1,24 +1,6 @@
 //
 // Created by Xin Sun on 2020-12-04.
 //
-<<<<<<< HEAD
-
-#include <stdio.h>
-#include <stdlib.h>
-
-int binarySearch(int *num, int n, int x)
-{
-    int mid = n >> 1;
-    int head = 0, tail = n-1;
-    while(head <= tail){
-        if(num[mid] == x){
-            return mid;
-        }else if(num[mid] > x){
-            tail = mid -1;
-        }else{
-            head = mid + 1;
-        }
-=======
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -39,21 +21,11 @@ int binarySearch(int *num, int n, int x)
             head = mid + 1;
         }
 
->>>>>>> origin/master
     }
 
     return -1;
 }
 
-<<<<<<< HEAD
-int main()
-{
-    int num[10] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
-    int k = binarySearch(num, 10, 3);
-    printf("%d\n", k);
-    return 0;
-}
-=======
 //111111111000000 find last 1
 int binarySearch1(int *num, int n)
 {
@@ -103,4 +75,3 @@ int main()
     P(binarySearch2(arr3, 10));
     return 0;
 }
->>>>>>> origin/master
